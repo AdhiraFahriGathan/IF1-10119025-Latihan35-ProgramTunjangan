@@ -10,6 +10,10 @@ import java.util.Scanner;
 /**
  *
  * @author User
+ * * NAMA     : ADHIRA FAHRI GATHAN
+ * KELAS    : PBO
+ * NIM      : 10119025
+ * Deskripsi Program : Program ini berisi tentang Program Tunjangan
  */
 public class Latihan35Tunjangan {
     public static void main(String[] args) {
